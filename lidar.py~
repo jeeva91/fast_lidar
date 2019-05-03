@@ -1,0 +1,8 @@
+import os
+
+PHOTONCOUNT_FILE = '/dev/xillybus_photoncount'
+STATUS_FILE = 'dev/xillybus_status'
+CONTROL_FILE = 'dev/xillybus_pixel_dwelltime_control'
+
+function change_ctrl(ctrl_fd, ctrl):
+pass
